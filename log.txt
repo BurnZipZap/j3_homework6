@@ -1,0 +1,41 @@
+22:29:51: Server: MEETdf connected
+22:29:59: Server: holabola connected
+22:29:59: Server: holabola connected
+22:23:00: yyu: /ebal lola
+22:30:06: Server: MEETdf disconnected
+22:30:42: Server: MEET connected
+22:31:54: Server: sdfsdfs connected
+22:32:01: Server: holabola connected
+22:32:01: Server: holabola connected
+22:23:00: yyu: /ebal lola
+22:32:06: Server: holabola disconnected
+22:32:34: Server: sdfsdfs connected
+22:32:44: Server: dfgfdg connected
+22:32:44: Server: dfgfdg connected
+22:33:01: dfgfdg:  RENAME NICK TOHHOLK
+22:33:01: Server: dfgfdg disconnected
+22:33:09: Server: HHOLK connected
+22:33:09: Server: HHOLK connected
+22:33:24: HHOLK:  RENAME NICK TOdghfghdfhg
+22:33:24: Server: HHOLK disconnected
+22:37:30: Server: sdfsdfs connected
+22:37:37: Server: dghfghdfhg connected
+22:37:37: Server: dghfghdfhg connected
+22:37:45: Server: dghfghdfhgRENAME TO sdfsdfghh!
+22:37:45: Server: dghfghdfhg disconnected
+22:42:21: Server: sdfsdfs connected
+22:42:27: Server: sdfsdfghh connected
+22:42:27: Server: sdfsdfghh connected
+22:42:29: sdfsdfghh: sdf
+22:42:29: sdfsdfghh: sdf
+22:42:30: sdfsdfghh: fg
+22:42:30: sdfsdfghh: fg
+22:42:39: Server: sdfsdfghh RENAME TO fdgdfggggggfdgdfg
+22:42:39: Server: sdfsdfghh disconnected
+22:42:45: Server: fdgdfggggggfdgdfg connected
+22:42:45: Server: fdgdfggggggfdgdfg connected
+22:42:50: Server: fdgdfggggggfdgdfg RENAME TO fdgdfggggggfdgdfgd
+22:42:50: Server: fdgdfggggggfdgdfg disconnected
+22:42:51: Server: fdgdfggggggfdgdfgd connected
+22:42:51: Server: fdgdfggggggfdgdfgd connected
+22:42:53: Server: sdfsdfs disconnected
